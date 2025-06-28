@@ -27,7 +27,7 @@ def set_background(image_path):
     st.markdown(css, unsafe_allow_html=True)
 
 # Set background
-set_background(r"C:\Users\niran\OneDrive\Documents\ML project - Random forest method\Designer.jpeg")
+set_background(Designer.jpeg")
 
 # Define features and model path
 feature_names = ["open", "high", "low", "volume"]

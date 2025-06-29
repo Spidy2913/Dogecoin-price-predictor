@@ -33,6 +33,9 @@ joblib
 
 ![image](https://github.com/user-attachments/assets/80ed6ebf-ffc6-4231-b817-342502c81ae4)
 
+** 🤖App link**
+
+https://dogecoin-price-predictor-esx3g6hwctj8nomhtj5yqn.streamlit.app/
 
 **⚠️ Note**
 
